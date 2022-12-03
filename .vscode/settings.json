@@ -1,0 +1,5 @@
+{
+    "prettier.configPath": ".prettierrc",
+    "eslint.format.enable": false,
+    "editor.tabSize": 2
+}
